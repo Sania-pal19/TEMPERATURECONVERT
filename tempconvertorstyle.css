@@ -1,0 +1,43 @@
+		*{
+			margin: 0px;
+			padding: 0px;
+		 }
+
+		.main
+		{
+			background: URL('image/temp.jpg');
+			width: 100%;
+			background-position: center;
+			background-size: cover;
+			height: 100vh;
+
+		}
+
+		#aa
+		{ 
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+			margin-top:  30px;;
+
+		}
+		h1
+		{
+			width: 40%;
+			margin: auto;
+			text-align: center;
+			font-size: 60px;
+			font-family: calibri;
+			color: white;
+			padding-bottom: 10px;
+            background-color: rgb(136, 193, 236);
+			
+			
+		}
+		.c1
+		{
+			height: 50px;
+			background:skyblue;
+			color: darkblue;
+			font-size: 40px;
+		}
